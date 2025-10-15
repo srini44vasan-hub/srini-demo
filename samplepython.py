@@ -1,4 +1,4 @@
-a = 5
+a = 18
 b = 6
 sum = a + b
-print ("the sum is ' " sum)
+print ("the sum is = " sum)
