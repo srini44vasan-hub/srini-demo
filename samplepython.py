@@ -1,4 +1,5 @@
 a = 18
-b = 6
-sum = a + b
+b = 22
+c = 10
+sum = a + b + c
 print ("the sum is = " sum)
